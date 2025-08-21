@@ -55,7 +55,7 @@ This system provides a scalable, serverless pipeline for image classification in
 
    ```bash
    git clone https://github.com/Isaakkamau/Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker
-   cd scones-ml-project
+   cd Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker
    ```
 
 2. Open `solution.ipynb` in **SageMaker Studio** or Jupyter.
