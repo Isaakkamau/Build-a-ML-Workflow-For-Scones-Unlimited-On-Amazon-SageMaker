@@ -1,5 +1,7 @@
 # ML Workflow for Scones Unlimited
 
+![Step Function Screenshot](screenshot_step_function.png)
+
 ## Problem Statement
 
 Scones Unlimited, a food delivery platform, wants to automate the process of identifying and categorizing delivery images. The company receives large amounts of image data daily, and manually handling this data is slow, error-prone, and costly.
