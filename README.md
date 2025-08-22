@@ -85,3 +85,5 @@ This system provides a scalable, serverless pipeline for image classification in
 - Add CI/CD for ML pipelines.
 - Integrate model monitoring for data drift detection.
 - Expand classification to multi-class, real-world scenarios.
+
+![AWS CERT](aws-cert.png)
