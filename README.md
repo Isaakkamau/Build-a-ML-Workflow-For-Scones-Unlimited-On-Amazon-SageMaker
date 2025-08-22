@@ -86,4 +86,5 @@ This system provides a scalable, serverless pipeline for image classification in
 - Integrate model monitoring for data drift detection.
 - Expand classification to multi-class, real-world scenarios.
 
+www.udacity.com/certificate/e/f8dc9716-ee8f-11ed-af6d-27ec879bfd7b
 ![AWS CERT](aws-cert.png)
